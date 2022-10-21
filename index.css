@@ -1,0 +1,15 @@
+:root{
+--dark-color: rgb(52, 52, 52);
+--light-color:
+}
+
+.body{
+    font-family: ;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.header{
+    text-transform: uppercase;
+    color: var(--dark-color);
+
+}
