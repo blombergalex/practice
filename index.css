@@ -73,6 +73,7 @@ nav a:hover{
     height: 70vh;
     border: 1px dotted black;
     display: flex;
+    justify-content: center;
 }
 
 .team-member{
@@ -81,6 +82,8 @@ nav a:hover{
     width: 350px;
     height: 350px;
     border-radius: 50%;
-
+    flex-direction: row;
 }
 
+.info{
+}
