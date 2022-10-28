@@ -38,7 +38,7 @@
     }
     
     nav ul{
-        margin: 50px 10vw;
+        margin: 10vh 10vw 10vh 10vw; 
         padding: 15px;
         display: flex;
         justify-content: center;
