@@ -1,0 +1,19 @@
+.pic-container{
+    margin: 40px;
+    display: grid;
+    grid-gap: 12px;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(3, 150px);
+}
+
+.pic-container > div > img{ 
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
+   
+.pic-container > div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
